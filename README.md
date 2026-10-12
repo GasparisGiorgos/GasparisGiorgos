@@ -1,5 +1,3 @@
-<h1 align="center">Hello World</h1>
-
 <div align="center">
   <i>First-year Computer Science undergraduate at UOWM Kastoria.<br>
   Building a foundation in software development and hardware architecture.</i>
