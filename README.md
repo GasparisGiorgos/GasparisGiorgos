@@ -5,7 +5,7 @@
 
 <br>
 
-### Things I Break (and occasionally fix)
+### Areas of Interest
 
 > **Software Development:** Learning `C` and `C++`.
 >
