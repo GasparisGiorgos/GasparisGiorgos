@@ -1,5 +1,5 @@
 <div align="center">
-  <i>First-year Computer Science undergraduate at UOWM Kastoria.<br>
+  <i>Second-year Computer Science undergraduate at UOWM Kastoria.<br>
   Building a foundation in software development and hardware architecture.</i>
 </div>
 
