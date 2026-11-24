@@ -10,8 +10,6 @@
 > **Software Development:** Learning `C` and `C++`.
 >
 > **Hardware Architecture:** Studying the basics of digital logic, `VHDL`, and FPGA simulation.
->
-> **Systems & Infrastructure:** Writing `Bash` utilities, configuring Linux environments, and exploring basic server networking.
 
 ### Stack
 
