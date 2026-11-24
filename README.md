@@ -13,10 +13,8 @@
 >
 > **Systems & Infrastructure:** Writing `Bash` utilities, configuring Linux environments, and exploring basic server networking.
 
-### Current Setup
+### Stack
 
-| Languages | Workspace | Infrastructure |
-| :--- | :--- | :--- |
-| `C` `C++` | `LMDE 7` | `Ubuntu Server` |
-| `Bash` | `Kitty` `Tmux` | `Xilinx ISE` |
-| `VHDL` | `Zsh` | `Tailscale` |
+> Languages: `C` `C++` `Bash` `VHDL` `SQL` \
+> Workspace: `Debian` `Ubuntu` `windows (sadly)`\
+> Tools: `ISE 14.7` `NaviCat`
